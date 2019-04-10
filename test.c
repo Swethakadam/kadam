@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-void main()
+int main()
 {
     int num=10;
     if(num%2==0)
@@ -10,5 +10,6 @@ void main()
     }
     else
         printf("odd");
+    return 0;
 }
 
