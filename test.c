@@ -5,6 +5,5 @@ int main()
 {
     int a=2,b=4,sum;
     sum=a+b;
-    return sum;
 }
 
