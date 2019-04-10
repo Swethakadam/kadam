@@ -3,7 +3,12 @@
 
 void main()
 {
-    int a=2,b=4,sum;
-    sum=a+b;
+    int num=10;
+    if(num%2==0)
+    {
+        printf("even number");
+    }
+    else
+        printf("odd");
 }
 
